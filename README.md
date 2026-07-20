@@ -45,4 +45,6 @@ CodeAlpha_ChatbotForFAQs/
 
 # Author
 **Sanika Malku Madarkhandi**
+
+
 Data Analytics Intern
